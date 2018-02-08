@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JTurtle.iml" filepath="$PROJECT_DIR$/JTurtle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JTurtle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JTurtle_main.iml" group="JTurtle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JTurtle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JTurtle_test.iml" group="JTurtle" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.canvas.Canvas?>
+
+<?import javafx.scene.control.ScrollPane?>
+<BorderPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+            fx:controller="gui.Controller">
+    <center>
+        <ScrollPane prefWidth="800" prefHeight="600">
+            <Canvas fx:id="canvas"></Canvas>
+        </ScrollPane>
+    </center>
+</BorderPane>
